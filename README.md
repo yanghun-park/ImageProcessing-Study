@@ -12,7 +12,7 @@ It mainly uses the Python language and uses the OpenCV library.
 <br/>
 
 ## Directory Introduction
-- "Source" Directory : Project FIle<br/>
-- "Source/*/Image" : Images used in the project
-> "Source" 디렉토리에 프로젝트 파일이 있으며, 프로젝트 파일 디렉토리에는 사용된 이미지도 첨부되어 있습니다. 
+- [Project] Directory : Project FIle<br/>
+- "[Project]/Image" : Images used in the project
+> [Project] 디렉토리에 프로젝트 파일이 있으며, 사용된 이미지도 첨부되어 있습니다. 
 <br/>
